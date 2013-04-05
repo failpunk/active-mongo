@@ -1,13 +1,8 @@
 {
-    "name": "crodas/active-mongo",
+    "name": "failpunk/active-mongo",
     "license": "BSD",
-    "homepage": "https://github.com/crodas/ActiveMongo",
+    "homepage": "https://github.com/failpunk/active-mongo",
     "require": {
         "composer/installers": "*"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.1.x-dev"
-        }
     }
 }
